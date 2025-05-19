@@ -110,7 +110,7 @@
             // 
             // btnSend
             // 
-            this.btnSend.Location = new System.Drawing.Point(270, 452);
+            this.btnSend.Location = new System.Drawing.Point(140, 452);
             this.btnSend.Name = "btnSend";
             this.btnSend.Size = new System.Drawing.Size(75, 23);
             this.btnSend.TabIndex = 8;
@@ -136,7 +136,7 @@
             // 
             // btnDisconnect
             // 
-            this.btnDisconnect.Location = new System.Drawing.Point(146, 452);
+            this.btnDisconnect.Location = new System.Drawing.Point(270, 452);
             this.btnDisconnect.Name = "btnDisconnect";
             this.btnDisconnect.Size = new System.Drawing.Size(75, 23);
             this.btnDisconnect.TabIndex = 11;
